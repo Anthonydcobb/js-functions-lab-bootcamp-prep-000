@@ -1,5 +1,5 @@
 // write your code below!
-let happyHolidays => return "Happy holidays!";
+let happyHolidays = () => return "Happy holidays!";
 
 let happyHolidaysTo = (name) => return `Happy holidays, ${name}`;
 

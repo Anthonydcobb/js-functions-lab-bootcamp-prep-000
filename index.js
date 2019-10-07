@@ -1,11 +1,11 @@
 // write your code below!
-var happyHolidays = () => {return `"Happy holidays!"`};
+var happyHolidays = () => {return `Happy holidays!`};
 
-var happyHolidaysTo = (name) => {return `"Happy holidays, ${name}."`};
+var happyHolidaysTo = (name) => {return `Happy holidays, ${name}.`};
 
-var happyHolidayTo = (holiday, name) => {return `"Happy ${holiday}, ${name}."`};
+var happyHolidayTo = (holiday, name) => {return `Happy ${holiday}, ${name}.`};
 
-var holidayCountdown = (holiday, days) => {return `"It's ${days} days unitl ${holiday}!"`};
+var holidayCountdown = (holiday, days) => {return `It's ${days} days unitl ${holiday}!`};
 
 
 console.log(happyHolidays());

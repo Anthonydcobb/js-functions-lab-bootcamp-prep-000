@@ -5,7 +5,7 @@ var happyHolidaysTo = (name) => {return `Happy holidays, ${name}!`};
 
 var happyHolidayTo = (holiday, name) => {return `Happy ${holiday}, ${name}!`};
 
-var holidayCountdown = (holiday, days) => {return `It's ${days} days unitl ${holiday}!`};
+var holidayCountdown = (holiday, days) => {return `It's ${days} days until ${holiday}!`};
 
 
 console.log(happyHolidays());
